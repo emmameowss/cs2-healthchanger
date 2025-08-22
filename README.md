@@ -2,9 +2,12 @@
 CounterStrikeSharp plugin for changing player's health.
 
 # Install Guide
-This is genuinely painful to install if you don't have an existing CS2DS up with CounterStrikeSharp installed so instead of writing out every step I'm just gonna make a video.
 
 -- TBA ADD VIDEO --
+
+or
+
+[Written Guide](https://github.com/emmameowss/cs2-healthchanger/blob/main/docs/install-guide.md)
 
 # Demo Guide
 1. Launch Counter-Strike 2
