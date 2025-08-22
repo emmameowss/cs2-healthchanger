@@ -12,5 +12,5 @@ or
 # Demo Guide
 1. Launch Counter-Strike 2
 2. Make sure Developer Console is enabled (Settings - Game - Enable Developer Console = Yes)
-3. In Developer Console type "connect cs2demo.emmameowss.gay; password som.test08"
+3. In Developer Console type "connect cs2demo.emmameowss.gay; password som.test08". Note: This server is not up yet and won't be until the project has been shipped.
 4. In chat, run ".health <name> <health>" where name is the Steam Profile name of the user whose health you want to change (in this case most likely you, can also be SteamID64) and health the amount of health you want to set to.
